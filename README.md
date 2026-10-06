@@ -56,7 +56,7 @@ This shell intentionally avoids advanced features:
 Clone the repository:
 
 ```bash
-git clone https://github.com/agalotaibi/holbertonschool-simple_shell.git
+git clone https://github.com/Lamyaa439/holbertonschool-simple_shell.git
 cd holbertonschool-simple_shell
 ```
 
